@@ -7,7 +7,7 @@ birthday4 = input("Enter birthday 4: ")
 birthday5 = input("Enter birthday 5: ")
 
 # Displaying the Dates
-print("\nStored date of Birthdays1:")
+print("\nStored date of Birthdays:")
 print("Birthday 1:", birthday1)
 print("Birthday 2:", birthday2)
 print("Birthday 3:", birthday3)
