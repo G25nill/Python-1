@@ -1,1 +1,5 @@
 print("Hello")
+print("Name: Bornil")
+print("School: Saint Joseph International School")
+print("The result of:", 1+1)
+print("Hello")
