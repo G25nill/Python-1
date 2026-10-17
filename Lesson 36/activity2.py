@@ -13,7 +13,7 @@ root.geometry("650x400")
 # -------------------------------
 # Adding Image and Labels in Main Window
 # -------------------------------
-upload = Image.open("app_img.jpg")
+upload = Image.open("C:\\Users\\Administrator\\Desktop\\Codingal_AI and Python\\Python codes\\Lesson 36\\cash_image.png")
 upload = upload.resize((300, 300))
 image = ImageTk.PhotoImage(upload)
 
